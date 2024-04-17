@@ -1,4 +1,4 @@
-# DuckDuckGo Privacy Configuration
+of# DuckDuckGo Privacy Configuration
 
 The configuration files within this repo are used by DuckDuckGo's Apps and Browser Extensions to control which privacy protections are enabled or disabled.
 
